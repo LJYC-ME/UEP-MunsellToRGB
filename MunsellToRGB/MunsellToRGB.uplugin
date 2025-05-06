@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MunsellToRGB",
+	"Description": "Munsell to RGB",
+	"Category": "Other",
+	"CreatedBy": "LJYC",
+	"CreatedByURL": "ljyc.me",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MunsellToRGB",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
