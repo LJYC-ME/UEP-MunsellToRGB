@@ -1,5 +1,5 @@
-# MunsellToSRGB
-**Munsell To sRGB (Unreal Engine Plug-in)**
+# MunsellToRGB
+**Munsell To RGB (Unreal Engine Plug-in)**
 ![](/MunsellToRGB/Resources/Icon128.png)
 
 ## Features
