@@ -1,4 +1,6 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// MIT License - Copyright (c) 2025 LJYC (ljyc.me)
+// See LICENSE file in the root of the repository for more details.
+
 #include "MunsellToRGB_MEN.h"
 #define LOCTEXT_NAMESPACE "UMunsellToRGB_MEN"
 
@@ -20,11 +22,6 @@ Returns the index of the compiled expression in the material graph.*/
 int32 UMunsellToRGB_MEN::
 Compile(FMaterialCompiler* Compiler, int32 OutputIndex)
 {
-    if (OutputIndex != 0)
-    {
-        return Compiler->Errorf(TEXT("Invalid output index for UMunsellToRGB_MEN %d"), OutputIndex);
-    }
-
     const FVector3f* Color = FMunsellToRGB_LUT::Find(Hue, Value, Chroma);
     if (Color)
     {

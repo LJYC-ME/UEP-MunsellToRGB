@@ -1,5 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// MIT License - Copyright (c) 2025 LJYC (ljyc.me)
+// See LICENSE file in the root of the repository for more details.
 
 #include "MunsellToRGB_LUT.h"
 

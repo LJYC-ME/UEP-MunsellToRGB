@@ -1,4 +1,5 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// MIT License - Copyright (c) 2025 LJYC (ljyc.me)
+// See LICENSE file in the root of the repository for more details.
 
 #include "MunsellToRGB.h"
 
