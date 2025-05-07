@@ -1,4 +1,4 @@
-# MunsellToRGB
+# Munsell To RGB
 **Munsell To RGB (Unreal Engine Plug-in)**
 ![](/MunsellToRGB/Resources/Icon128.png)
 
