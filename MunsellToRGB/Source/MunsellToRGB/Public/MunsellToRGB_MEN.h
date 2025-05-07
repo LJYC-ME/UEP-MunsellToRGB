@@ -12,7 +12,7 @@
 /**
  * 
  */
-UCLASS(hidecategories = Object, meta = (DisplayName = "Munsell To sRGB"))
+UCLASS(hidecategories = Object, meta = (DisplayName = "Munsell To RGB"))
 class MUNSELLTORGB_API
 UMunsellToRGB_MEN : public UMaterialExpression
 {
