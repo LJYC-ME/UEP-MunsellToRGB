@@ -32,6 +32,7 @@ Here's how to use the **"Munsell To RGB"** node in the Material Editor:
 ## References
 
 [1] D. Nikolaev, O. Basova, G. Usaev, M. Tchobanou, and V. Bozhkova, “Detection and Correction of Errors in Psychophysical Color Difference Munsell Re-renotation Dataset,” lim, vol. 4, no. 1, pp. 40–44, Jun. 2023, doi: 10.2352/lim.2023.4.1.10.
+
 [2] A. H. Munsell, “A Pigment Color System and Notation,” The American Journal of Psychology, vol. 23, no. 2, p. 236, Apr. 1912, doi: 10.2307/1412843.
 
 ## Acknowledgments
