@@ -1,5 +1,5 @@
 {
-	"FabURL": "com.epicgames.launcher://ue/Fab/product/"
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/",
 	"EngineVersion": "5.5.0",
 	"PlatformAllowList": [ "Win64", "Mac" ],
 
